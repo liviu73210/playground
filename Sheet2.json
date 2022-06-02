@@ -1,0 +1,373 @@
+[
+    {
+        "name": ".NET Core 3.1",
+        "ring": "ALL",
+        "quadrant": "Backend",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": ".NET Core 5.0",
+        "ring": "ALL",
+        "quadrant": "Backend",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": ".NET Core 6.0",
+        "ring": "ALL",
+        "quadrant": "Backend",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "Angular",
+        "ring": "ALL",
+        "quadrant": "Frontend",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "ArgoCD",
+        "ring": "ALL",
+        "quadrant": "Infrastructure",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "ASP .NET Core",
+        "ring": "ALL",
+        "quadrant": "Backend",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "Azure CLI",
+        "ring": "ALL",
+        "quadrant": "Infrastructure",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "Azure Container Registry",
+        "ring": "ALL",
+        "quadrant": "Infrastructure",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "Azure DevOps",
+        "ring": "ALL",
+        "quadrant": "Infrastructure",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "Azure: Active Directory",
+        "ring": "ALL",
+        "quadrant": "Infrastructure",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "Azure: ADB2C",
+        "ring": "ALL",
+        "quadrant": "Frontend",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "Azure: BlobStorage",
+        "ring": "ALL",
+        "quadrant": "Infrastructure",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "Azure: Event Grid",
+        "ring": "ALL",
+        "quadrant": "Infrastructure",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "Azure: EventHub",
+        "ring": "ALL",
+        "quadrant": "Infrastructure",
+        "isNew": "TRUE",
+        "description": "local development"
+    },
+    {
+        "name": "Azure: IoTHub",
+        "ring": "ALL",
+        "quadrant": "Infrastructure",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "Azure: Log Analytics",
+        "ring": "ALL",
+        "quadrant": "Infrastructure",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "Azure: Device Provisioning Service",
+        "ring": "ALL",
+        "quadrant": "Infrastructure",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "Azure: KeyVault",
+        "ring": "MOST",
+        "quadrant": "Infrastructure",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "Azure: PostgreSQL ",
+        "ring": "MOST",
+        "quadrant": "Infrastructure",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "Azure: Rabbitmq",
+        "ring": "MOST",
+        "quadrant": "Infrastructure",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "Azure: Redis cache",
+        "ring": "MOST",
+        "quadrant": "Infrastructure",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "Azure: Service bus",
+        "ring": "MOST",
+        "quadrant": "Infrastructure",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "Azure: Table Storage",
+        "ring": "MOST",
+        "quadrant": "Infrastructure",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "Azure: Web App",
+        "ring": "MOST",
+        "quadrant": "Frontend",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "BlackDuck",
+        "ring": "MOST",
+        "quadrant": "Infrastructure",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "C#",
+        "ring": "MOST",
+        "quadrant": "Backend",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "Client Credential Flow",
+        "ring": "MOST",
+        "quadrant": "Frontend",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "Docker",
+        "ring": "MOST",
+        "quadrant": "Infrastructure",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "Git",
+        "ring": "MOST",
+        "quadrant": "Infrastructure",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "Grafana",
+        "ring": "MOST",
+        "quadrant": "Infrastructure",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "gRPC",
+        "ring": "MOST",
+        "quadrant": "Backend",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "Helm",
+        "ring": "MOST",
+        "quadrant": "Infrastructure",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "HTTPS",
+        "ring": "MOST",
+        "quadrant": "Backend",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "Humio",
+        "ring": "MOST",
+        "quadrant": "Infrastructure",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "JavaScript",
+        "ring": "MOST",
+        "quadrant": "Frontend",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "JSON",
+        "ring": "MOST",
+        "quadrant": "Infrastructure",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "Kubernetes",
+        "ring": "MOST",
+        "quadrant": "Infrastructure",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "Microservices",
+        "ring": "MOST",
+        "quadrant": "Backend",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "Microsoft Graph",
+        "ring": "SOME",
+        "quadrant": "Infrastructure",
+        "isNew": "FALSE",
+        "description": ""
+    },
+    {
+        "name": "Node.js",
+        "ring": "SOME",
+        "quadrant": "Backend",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "OAuth2",
+        "ring": "SOME",
+        "quadrant": "Frontend",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "PostgreSQL",
+        "ring": "SOME",
+        "quadrant": "Data Management",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "Postman",
+        "ring": "SOME",
+        "quadrant": "Data Management",
+        "isNew": "TRUE",
+        "description": "local development"
+    },
+    {
+        "name": "Prometheus",
+        "ring": "ONE",
+        "quadrant": "Infrastructure",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "Responsive Design",
+        "ring": "ONE",
+        "quadrant": "Frontend",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "RESTFul API",
+        "ring": "ONE",
+        "quadrant": "Backend",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "Serilog",
+        "ring": "ONE",
+        "quadrant": "Backend",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "Sonarcloud",
+        "ring": "ONE",
+        "quadrant": "Infrastructure",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "Test Driven Development",
+        "ring": "ONE",
+        "quadrant": "Backend",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "TypeScript",
+        "ring": "ONE",
+        "quadrant": "Frontend",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "Visual Studio",
+        "ring": "ONE",
+        "quadrant": "Frontend",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "VS Code",
+        "ring": "ONE",
+        "quadrant": "Frontend",
+        "isNew": "TRUE",
+        "description": ""
+    },
+    {
+        "name": "Yarn",
+        "ring": "ONE",
+        "quadrant": "Infrastructure",
+        "isNew": "TRUE",
+        "description": ""
+    }
+]
