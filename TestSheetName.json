@@ -3,35 +3,35 @@
         "name": "Four key metrics",
         "ring": "Adopt",
         "quadrant": "Techniques",
-        "isNew": 0,
+        "isNew": "FALSE",
         "description": ""
     },
     {
         "name": "Data mesh",
         "ring": "Trial",
         "quadrant": "Techniques",
-        "isNew": 0,
+        "isNew": "FALSE",
         "description": ""
     },
     {
         "name": "GoReleaser",
         "ring": "Assess",
         "quadrant": "Tools",
-        "isNew": 1,
+        "isNew": "TRUE",
         "description": ""
     },
     {
         "name": "Flutter-Unity widget",
         "ring": "Trial",
         "quadrant": "languages-and-frameworks",
-        "isNew": 1,
+        "isNew": "TRUE",
         "description": ""
     },
     {
         "name": "Test",
         "ring": "Hold",
         "quadrant": "languages-and-frameworks",
-        "isNew": 1,
+        "isNew": "TRUE",
         "description": ""
     }
 ]
